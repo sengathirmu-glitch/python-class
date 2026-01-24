@@ -1,0 +1,11 @@
+name="   pythonclass   "
+print(name.capitalize())
+print(name.upper())
+print(name.casefold())
+print(name.center(50))
+print(name.count("t"))
+print(name.endswith("s"))
+print(name.startswith("p"))
+print(name.strip())
+print(name.lstrip())
+print(name.rstrip())
